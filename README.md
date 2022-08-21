@@ -16,3 +16,5 @@ In September of 2021, i created this app as a asignment from CS, but it would ch
 Nearly 1 Year later, i managed to recover it, i had no words whatsoever.
 
 Thank you to everyone who insired me to code, and enjoy the source!
+
+(also api key dosent work lmao)
