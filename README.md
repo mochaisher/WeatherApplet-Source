@@ -1,20 +1,18 @@
-# WeatherApplet.
-## this might just seem like a ordinary weather applet to many, but to me, this means a lot.
+# WeatherApplet
+## Ordinary WeatherApplet n stuff ig.
 
 ### Table of Contents:
 - How to use
 - Story
 
 ## How to use:
-Download this Repo as a Zip file, then open the 'game.json' contained in the project directory.
+Download this Repo as a zip file, then open the 'game.json' contained in the project directory using GDevelop 5.
 
-## Story
-### Weatherapplet to many may seem like a stupid app, but to me, it means the whole world.
+## Story:
+Its september of 2021, I had an assignment in Computer Science that would be a mock-up of an actual weather app, I decided to actually create the app, because of the fact that I was bored during class, it took me around 3 days and a lot of tinkering, but I would end up creating the app, marking the beginnning of all my CS shenanigans.
 
-In September of 2021, i created this app as a asignment from CS, but it would change how i programmed forever, as it inspired me to create beatshape, astroup, and many more projects.
+After creating this app, I started working on Beatshape, since I finally learned how to work with API's, and i would eventually finish Beatshape thanks to this weather applet, the UI of this applet also inspired the UI Design for NExT, which is kinda cool.
 
-Nearly 1 Year later, i managed to recover it, i had no words whatsoever.
-
-Thank you to everyone who insired me to code, and enjoy the source!
+Fun Fact: after my teacher saw this, he told me that I should pursue CS as a career, and thanks to him, im now doing that and starting to make my dreams come true, so, if you see this, i want to say from the bottom of my heart, **thank you**.
 
 ###### (also api key dosent work lmao)
